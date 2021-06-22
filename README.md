@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Navin Dhuttargi
+- I'm a professional Game developer with over 2.6 Years of experience
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Design patterns and Game Architecture
 - 📫 How to reach me Email: navindhuttargi@gmail.com
